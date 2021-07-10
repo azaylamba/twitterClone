@@ -25,3 +25,7 @@ Console link - http://localhost:8080/h2-console
 Default JDBC URL: jdbc:h2:mem:testdb
 
 How to connect to JDBC: http://www.h2database.com/html/tutorial.html#connecting_using_jdbc
+
+
+Stories and templates:
+https://docs.google.com/document/d/1k5lyXW45H2drbJjqNqxSAdMuO_hik-KLFdSF4DQMyB8/edit?usp=sharing 
